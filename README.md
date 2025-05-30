@@ -73,6 +73,7 @@ These filters dynamically update the visuals to focus on specific segments.
 | Supermarket Type3   | 3.9       | $139.83  | 935        | $130,714.67     |
 | Supermarket Type2   | 3.9       | $141.68  | 928        | $131,477.78     |
 
+---
 
 ##  Strategic Insights
 
