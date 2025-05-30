@@ -6,7 +6,7 @@ This project presents a **Sales Performance Dashboard** built using real sales d
 
 - **Format**: Microsoft Excel (`.xlsx`)
 - **Contents**: Item details, outlet information, sales data, item ratings, and other attributes.
-- The dataset was cleaned and visualized using a BI tool (e.g., Power BI / Excel / Tableau).
+- The dataset was cleaned and visualized using a BI tool (e.g., Power BI / Excel).
 
 ---
 
